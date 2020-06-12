@@ -63,3 +63,66 @@ html {
     width: 90%;
 }
 /* slider-part end */
+/* first category design start */
+#category-bg-watch {
+    background-image: linear-gradient(#FFB22B, #FBAF22);
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 100%;
+}
+#category-bg-bag {
+    background-image: linear-gradient(#E40E73, #D96BA5);
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 100%;
+}
+#category-bg-shoes {
+    background-image: linear-gradient(#1038FC, #3574E4);
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 100%;
+}
+.category-title h3 {
+    padding-top: 35px;
+    font-weight: 900;
+    text-transform: capitalize;
+    color: #ffffff;
+    font-size: 40px;
+}
+.category-image img {
+    width: 85%;
+}
+.first-category {
+    padding: 10px 0px 10px 30px;
+}
+/* first category design end */
+/* shoes category design start */
+.shoes-category-title {
+    padding-top: 40px;
+}
+.shoes-category-title h2,
+.backpack-category-title h2 {
+    text-transform: capitalize;
+}
+.shoes-category-detail h5,
+.backpack-category-detail h5 {
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.shoes-category-detail p,
+.backpack-category-detail p {
+    font-size: 14px;
+    font-weight: 300;
+}
+.shoes-category-detail h4,
+.backpack-category-detail h4 {
+    font-weight: bold;
+}
+.backpack-category {
+    padding: 40px 0px;
+}
+.card-custom-bg {
+    background-color: #F4ECEC;
+    box-shadow: -2px -4px 12px #dddddd;
+}
+/* shoes category design end */
