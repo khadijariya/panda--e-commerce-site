@@ -3,7 +3,11 @@ body {
     padding: 0;
    
 }
-
 html {
     scroll-behavior: smooth;
 }
+/* header- part start */
+.custom-bg {
+    background-color: #ECEAEA;
+}
+/* header- part end */
